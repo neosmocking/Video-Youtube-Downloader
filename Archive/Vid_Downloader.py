@@ -29,6 +29,8 @@ def download_video():
         'noplaylist': True,
         # Fungsi untuk menampilkan progress
         'progress_hooks': [my_hook],
+        'cookiesfrombrowser': ('chrome',),
+
     }
 
     # Cek keberadaan FFmpeg untuk memberi tahu user
