@@ -1,5 +1,5 @@
-Downloads/*
-!Downloads/.gitkeep
-
 Cookies/*
 !Cookies/.gitkeep
+
+Downloads/*
+!Downloads/.gitkeep
