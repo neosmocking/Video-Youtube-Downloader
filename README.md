@@ -38,21 +38,22 @@ Download dari:
 https://ffmpeg.org/download.html
 
 Setelah install, pastikan FFmpeg sudah masuk ke PATH.
+
 ---
 ### 🔑 Cara Mengambil Cookies (Login YouTube)
 
-Script ini menggunakan cookies agar bisa download video yang:
+**Script ini menggunakan cookies agar bisa download video yang:**
 
 - butuh login
 - age restricted
 - atau kena "Sign in to confirm you're not a bot"
 ---
-### Cara export cookies:
+**Cara export cookies:**
 
 Gunakan extension Chrome:
-
+```
 Get cookies.txt LOCALLY
-
+```
 Langkah:
 
 1. Install extension di Chrome
@@ -60,23 +61,23 @@ Langkah:
 3. Klik extension
 4. Export cookies
 5. Simpan sebagai: Cookies/cookies.txt
----
-### ⚠️ WARNING (PENTING - KEAMANAN COOKIES)
+
+**⚠️ WARNING (PENTING - KEAMANAN COOKIES)**
 
 File cookies.txt SANGAT SENSITIF.
 
 Cookies ini berisi session login akun kamu. Artinya: Siapa pun yang memiliki file ini bisa mengakses akun kamu
 
-* Tidak perlu password
-* Tidak perlu login ulang
----
-### ❗ Jangan lakukan ini:
+- Tidak perlu password
+- Tidak perlu login ulang
+
+**❗ Jangan lakukan ini:**
 
 - ❌ Upload ke GitHub
 - ❌ Kirim ke orang lain
 - ❌ Simpan di cloud publik
----
-### ✅ Best Practice:
+
+**✅ Best Practice:**
 
 Tambahkan ke .gitignore:
 ```
