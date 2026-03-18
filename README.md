@@ -9,14 +9,14 @@ Script Python sederhana untuk mendownload video YouTube dengan fitur:
 
 ## 📁 Struktur Folder
 
-
+```
 project
 │
 ├─ downloader.py
 ├─ Downloads
 └─ Cookies
 └─ cookies.txt
-
+```
 
 ## ⚙️ Requirements
 
@@ -71,9 +71,9 @@ Cookies ini berisi session login akun kamu. Artinya: Siapa pun yang memiliki fil
 
 ### ❗ Jangan lakukan ini:
 
-❌ Upload ke GitHub
-❌ Kirim ke orang lain
-❌ Simpan di cloud publik
+- ❌ Upload ke GitHub
+- ❌ Kirim ke orang lain
+- ❌ Simpan di cloud publik
 
 ### ✅ Best Practice:
 
