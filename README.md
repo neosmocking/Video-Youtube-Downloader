@@ -47,11 +47,11 @@ Setelah install, pastikan FFmpeg sudah masuk ke PATH.
 - butuh login
 - age restricted
 - atau kena "Sign in to confirm you're not a bot"
----
+
 **Cara export cookies:**
 
 Gunakan extension Chrome:
-```
+```bash
 Get cookies.txt LOCALLY
 ```
 Langkah:
